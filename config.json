@@ -1,0 +1,15 @@
+{
+  "templateFolder" : "/Users/ryangosling/Documents/clozey-data",
+  "templateTestFolder" : "/Users/ryangosling/Documents/clozey-data-test",
+  "ankiProfileFolder" : "/Users/ryangosling/Library/Application Support/Anki2/Main",
+  "deckName" : "Clozey",
+  "testDeckName" : "ClozeyTest",
+  "noteTypeName" : "ClozeyNote",
+  "textEditorOpenCmd" : ["vim", "--remote-silent"],
+  "extension": {
+    ".py": "#",
+    ".js": "//",
+    ".kt": "//",
+    ".java": "//"
+  }
+}
